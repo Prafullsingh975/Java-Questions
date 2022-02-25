@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program6 {
+public class Program07 {
     public static void main(String[] args) {
         /*
           Accept the marks of Robert in three subjects Maths, Computer,
