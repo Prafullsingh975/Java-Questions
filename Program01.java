@@ -1,4 +1,4 @@
-public class Program1 {
+public class Program01 {
     public static void main(String[] args) {
         int number1 = 65;
         int number2 = 55;
