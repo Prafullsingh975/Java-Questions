@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program5 {
+public class Program05 {
     public static void main(String[] args) {
         /*Accept the length and width of a rectangle.
         Calculate & print the area and perimeter.*/
