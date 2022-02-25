@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program4 {
+public class Program04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //STDOUT yani print
