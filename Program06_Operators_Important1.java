@@ -1,4 +1,4 @@
-public class Operators_Important1
+public class Program6_Operators_Important1
 {
     public static void main(String[] args) {
 
