@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program9 {
+public class Program10 {
     public static void main(String[] args) {
         /*
         Take 3 int inputs from user and check and print the result.
