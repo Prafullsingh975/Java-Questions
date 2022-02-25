@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program3 {
+public class Program03 {
     public static void main(String[] args) {
         /*char ch = 97;//small alphabets from 97
         System.out.println(ch);*/
