@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program8 {
+public class Program09 {
     public static void main(String[] args) {
         /*
         Accept the Principle amount, time & rate of interest
