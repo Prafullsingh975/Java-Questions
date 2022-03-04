@@ -10,13 +10,15 @@ public class Program19 {
         double a = sc.nextDouble();
         double b = sc.nextDouble();
         double c = sc.nextDouble();
-
-        if (a > b && a > c) {
-            System.out.println(a + " is greatest number");
-        } else if (b > a && b > c) {
-            System.out.println(b + " is greatest number");
-        } else {
-            System.out.println(c + " is greatest number");
-        }
+        if (a != b && b != c && c != a) {
+            if (a > b && a > c) {
+                System.out.println(a + " is greatest number");
+            } else if (b > a && b > c) {
+                System.out.println(b + " is greatest number");
+            } else if (c>a && c>b){
+                System.out.println(c + " is greatest number");
+            }
+        }else
+            System.out.println("Please enter distinct numbers");
     }
 }
